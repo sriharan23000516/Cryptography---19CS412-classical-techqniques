@@ -336,7 +336,7 @@ int main()
 ```
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/ae5902f6-1bc8-4763-b844-b598469978f2)
+![image](https://github.com/user-attachments/assets/7385e1e8-ba8e-47b2-b5b5-2fc51a169758)
 
 ## RESULT:
 The program is executed successfully
